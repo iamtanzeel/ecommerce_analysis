@@ -28,3 +28,11 @@ def read_query(query):
     cursor.execute(query)
     rows = cursor.fetchall()
     return pd.DataFrame(data=rows, columns=cursor.column_names)
+
+
+if __name__=='__main__':
+    
+    query = 'Show tables;'
+    print(query)
+    df = read_query(query=query)
+    print(df)
