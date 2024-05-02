@@ -22,4 +22,10 @@ Another points:
 1. point 1
 2. point 2
 
+The following categories performed consistently throughout the year
 
+| Category | Sales |
+--------------------
+| Clothing | 500 |
+| Electronics | 200 |
+---------------------
