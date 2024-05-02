@@ -29,3 +29,9 @@ The following categories performed consistently throughout the year
 | Clothing | 500 |
 | Electronics | 200 |
 | ---------|--------|
+---
+# Code Blocks
+
+```python def function(a,b):
+result =  a+b
+return result```
