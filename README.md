@@ -32,6 +32,8 @@ The following categories performed consistently throughout the year
 ---
 # Code Blocks
 
-```python def function(a,b):
+```python
+def function(a,b):
 result =  a+b
-return result```
+return result
+```
