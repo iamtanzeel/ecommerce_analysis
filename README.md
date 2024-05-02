@@ -34,6 +34,11 @@ The following categories performed consistently throughout the year
 
 ```python
 def function(a,b):
-result =  a+b
-return result
+  result =  a+b
+  return result
+```
+
+
+```sql
+SELECT * FROM employees;
 ```
