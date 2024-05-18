@@ -45,7 +45,5 @@ def function(a,b):
 ```sql
 SELECT * FROM employees;
 ```
-![cat](https://github.com/iamtanzeel/ecommerce_analysis/assets/125236453/004580ea-42c7-4ecd-95fe-3a803305902e)
 
 
-![MYCAT](C:\Users\tanze\Desktop\TGC\08-Projects\weekday-1000\cat.jpg)
