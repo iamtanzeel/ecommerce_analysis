@@ -47,4 +47,4 @@ SELECT * FROM employees;
 ```
 
 
-![mycat](C:\Users\tanze\Desktop\TGC\08-Projects\weekday-1000\cat.jpg)
+![MYCAT](C:\Users\tanze\Desktop\TGC\08-Projects\weekday-1000\cat.jpg)
