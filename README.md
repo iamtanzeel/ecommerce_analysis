@@ -47,5 +47,5 @@ SELECT * FROM employees;
 ```
 
 ![Screenshot 2024-05-18 093519](https://github.com/iamtanzeel/ecommerce_analysis/assets/125236453/6f893e0b-5df4-4f9f-8f35-4443f6ee33ac)
-
+![image](https://ibb.co/BgZRN72)
 
